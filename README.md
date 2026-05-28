@@ -79,7 +79,8 @@ Para solucionar este problema, se desarrolló una plataforma web conectada a una
 * GitHub
 
 ### Capturas del proyecto
-
+<details>
+<summary>Ver capturas de pantalla</summary>
 | | |
 |---|---|
 | <img loading="lazy" src="imgHuellitas/01-inicio-huellitas.jpeg" alt="Inicio de Huellitas" width="400"/> | <img loading="lazy" src="imgHuellitas/02-inicio-ayuda-donaciones.jpeg" alt="Seccion de ayuda y donaciones de Huellitas" width="400"/> |
@@ -91,6 +92,7 @@ Para solucionar este problema, se desarrolló una plataforma web conectada a una
 | <img loading="lazy" src="imgHuellitas/13-empleado-mascotas-mi-cuidado.jpeg" alt="Mascotas al cuidado del empleado" width="400"/> | <img loading="lazy" src="imgHuellitas/14-empleado-mascotas-adoptadas.jpeg" alt="Mascotas adoptadas del refugio" width="400"/> |
 | <img loading="lazy" src="imgHuellitas/15-empleado-mascotas-buscando-hogar.jpeg" alt="Mascotas buscando hogar" width="400"/> | <img loading="lazy" src="imgHuellitas/16-empleado-panel-entrevistas.jpeg" alt="Panel de entrevistas" width="400"/> |
 | <img loading="lazy" src="imgHuellitas/17-empleado-horarios.jpeg" alt="Horarios del empleado" width="400"/> | <img loading="lazy" src="imgHuellitas/18-empleado-mi-cuenta.jpeg" alt="Cuenta del empleado" width="400"/> |
+</details>
 
 
 ### Características principales
