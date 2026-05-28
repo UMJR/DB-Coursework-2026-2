@@ -61,3 +61,46 @@ Plataforma web tipo red social enfocada en lectores, donde los usuarios pueden r
 Código Fuente Backend: [Repositorio Backend](https://github.com/Diegocstln/booksnexus-back)
 Código Fuente Frontend: [Repositorio Frontend](https://github.com/Diegocstln/mi-proyecto-bd)
 Demo en Vivo: [Booksnexus Web](https://diegocstln.github.io/mi-proyecto-bd/)
+
+
+
+
+## Proyecto Huellitas
+
+Huellitas es una fundación enfocada en brindar un hogar y mejores oportunidades a animales en situación de abandono. Con el desarrollo de una página web, se mejoró significativamente la presencia digital de la fundación, ya que anteriormente únicamente operaba de manera presencial y sin publicidad en línea.
+
+Para solucionar este problema, se desarrolló una plataforma web conectada a una base de datos que almacena la información completa de todos los animales disponibles en el refugio. Además, se implementó un apartado de donaciones que permite apoyar económicamente a la fundación, ayudando a convertir a Huellitas en un mejor refugio y hogar temporal para los animales.
+
+### Tecnologías utilizadas
+
+* Javascript
+* PostgreSQL
+* CSS
+* GitHub
+
+### Capturas del proyecto
+
+| | |
+|---|---|
+| <img loading="lazy" src="imgHuellitas/01-inicio-huellitas.jpeg" alt="Inicio de Huellitas" width="400"/> | <img loading="lazy" src="imgHuellitas/02-inicio-ayuda-donaciones.jpeg" alt="Seccion de ayuda y donaciones de Huellitas" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/03-registro-adoptante.jpeg" alt="Registro de adoptante" width="400"/> | <img loading="lazy" src="imgHuellitas/04-inicio-sesion-adoptante.jpeg" alt="Inicio de sesion de adoptante" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/05-animales-en-adopcion.jpeg" alt="Animales en adopcion" width="400"/> | <img loading="lazy" src="imgHuellitas/06-animales-en-adopcion-continuacion.jpeg" alt="Lista de animales en adopcion" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/07-animales-en-adopcion-final.jpeg" alt="Continuacion de animales en adopcion" width="400"/> | <img loading="lazy" src="imgHuellitas/08-donaciones-inicio.jpeg" alt="Inicio de donaciones" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/09-donaciones-alimento.jpeg" alt="Donaciones de alimento" width="400"/> | <img loading="lazy" src="imgHuellitas/10-donaciones-limpieza-salud.jpeg" alt="Donaciones de limpieza y salud" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/11-donaciones-tabla-necesidades.jpeg" alt="Tabla de necesidades de donacion" width="400"/> | <img loading="lazy" src="imgHuellitas/12-donaciones-resumen.jpeg" alt="Resumen de donacion" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/13-empleado-mascotas-mi-cuidado.jpeg" alt="Mascotas al cuidado del empleado" width="400"/> | <img loading="lazy" src="imgHuellitas/14-empleado-mascotas-adoptadas.jpeg" alt="Mascotas adoptadas del refugio" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/15-empleado-mascotas-buscando-hogar.jpeg" alt="Mascotas buscando hogar" width="400"/> | <img loading="lazy" src="imgHuellitas/16-empleado-panel-entrevistas.jpeg" alt="Panel de entrevistas" width="400"/> |
+| <img loading="lazy" src="imgHuellitas/17-empleado-horarios.jpeg" alt="Horarios del empleado" width="400"/> | <img loading="lazy" src="imgHuellitas/18-empleado-mi-cuenta.jpeg" alt="Cuenta del empleado" width="400"/> |
+
+
+### Características principales
+
+* Gestión de animales disponibles para adopción.
+* Base de datos con información detallada de cada animal.
+* Sistema de donaciones.
+* Mejor presencia y difusión digital para la fundación.
+* Interfaz amigable y accesible para los usuarios.
+
+### 🔗 Enlaces
+Código Fuente: [Repositorio](https://github.com/sofi-14/gitfin)
+Página web: [PáginaWeb](https://sofi-14.github.io/gitfin/)
